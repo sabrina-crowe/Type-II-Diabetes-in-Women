@@ -1,2 +1,2 @@
 # Type-II-Diabetes-in-Women
-Analysis of risk factors associated with women who have diabetes
+Analysis of risk factors associated with women who have diabetes. Final project for MIS 110 to learn pandas and seaborn functionality
